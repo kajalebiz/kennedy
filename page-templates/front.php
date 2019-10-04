@@ -4,7 +4,7 @@ Template Name: Front
 */
 get_header(); ?>
 
-<header class="front-hero" role="banner">
+<header class="front-hero test" role="banner">
 	<div class="marketing">
 		<div class="tagline">
 			<h1><?php bloginfo( 'name' ); ?></h1>
